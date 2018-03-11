@@ -1,0 +1,22 @@
+{
+  "name": "second-app",
+  "version": "1.0.0",
+  "description": "Description app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snazzarov/second-app.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "snazarov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snazzarov/second-app/issues"
+  },
+  "homepage": "https://github.com/snazzarov/second-app#readme"
+}
